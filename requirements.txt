@@ -1,2 +1,4 @@
 Flask==2.3.3
 telethon==1.28.5
+rsa==4.9
+pyaes==1.6.1
